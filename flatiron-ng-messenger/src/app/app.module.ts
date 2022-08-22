@@ -16,6 +16,7 @@ import { DropdownComponent } from './dropdown/dropdown.component';
 import { LabelComponent } from './label/label.component';
 import { InputboxComponent } from './inputbox/inputbox.component';
 import { HeaderComponent } from './header/header.component';
+import { HighlightDirective } from './highlight.directive';
 
 @NgModule({
   declarations: [
@@ -33,7 +34,8 @@ import { HeaderComponent } from './header/header.component';
     DropdownComponent,
     LabelComponent,
     InputboxComponent,
-    HeaderComponent
+    HeaderComponent,
+    HighlightDirective
   ],
   imports: [
     BrowserModule
