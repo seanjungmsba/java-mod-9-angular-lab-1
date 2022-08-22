@@ -1,3 +1,3 @@
 export class User {
-  constructor(public firstName: string) {}
+  constructor(public firstName: string, public isOnline?: boolean) {}
 }
