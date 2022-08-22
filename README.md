@@ -16,7 +16,7 @@ Hints:
 
 Your application display should look like this:
 
-![Font Weights](ng-messaging-font-weights.png)
+![Font Weights](https://curriculum-content.s3.amazonaws.com/java-mod-8/ng-messaging-font-weights.png)
 
 Here is our sender message component after this change:
 
